@@ -7,3 +7,5 @@ public class HelloWorld {
         System.out.println("The sum of " + number1 + " and " + number2 + " is: " + sum);
     }
 }
+
+this is java sample code
